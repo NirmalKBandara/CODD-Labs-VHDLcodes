@@ -4,7 +4,7 @@
 
 ## [Lab 01](https://github.com/NirmalKBandara/VHDL-labs-01/tree/main/Lab_01)
 ```Just to try simple code```
-## [Lab 02](https://github.com/NirmalKBandara/VHDL-labs-01/tree/main/Lab02)
+## [Lab 02](https://github.com/NirmalKBandara/VHDL-labs-01/tree/main/Lab_02)
 ```Logic gates```
 ## [Lab 03](https://github.com/NirmalKBandara/VHDL-labs-01/tree/main/Lab_03)
 ```Full adders and Half Adders```
