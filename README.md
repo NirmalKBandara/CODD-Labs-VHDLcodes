@@ -13,8 +13,8 @@
 ## [Lab 05](https://github.com/NirmalKBandara/VHDL-labs-01/tree/main/Lab_05)
 ⟶ ```Counter```
 ## [Lab 06](https://github.com/NirmalKBandara/VHDL-labs-01/tree/main/Lab_06)
-```Didn't update this one yet```
+⟶ ```Arithmetic and Logic unit```
 ## [Lab 07](https://github.com/NirmalKBandara/VHDL-labs-01/tree/main/Lab_07)
-```Didn't update this one yet```
+⟶ ```Multiplexer```
 ## [Lab 08](https://github.com/NirmalKBandara/VHDL-labs-01/tree/main/Lab_08)
 ```Didn't update this one yet```
