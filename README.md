@@ -17,4 +17,4 @@
 ## [Lab 07](https://github.com/NirmalKBandara/VHDL-labs-01/tree/main/Lab_07)
 ⟶ ```Multiplexer```
 ## [Lab 08](https://github.com/NirmalKBandara/VHDL-labs-01/tree/main/Lab_08)
-```Didn't update this one yet```
+⟶ ```7 Segment Disply```
